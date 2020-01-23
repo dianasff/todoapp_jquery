@@ -1,0 +1,25 @@
+body{
+	background-color:  #9FC0C0FF;
+	text-align: center;
+	font-family: Quicksand;
+}
+h1{
+	background-color: gray;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+button{
+	padding: 1em;
+	color:#46A1B8B8;
+	background-color: grey;
+	border-style: none;
+	font-size: 25px
+}
+p{
+	background-color: #46A1B8B8;
+	font-size: 15px;
+	margin-left: 40%;
+	margin-right: 40%;
+	font-weight: bold;
+
+}
